@@ -8,6 +8,11 @@
 
 var optionalString: String? = "Hello"
 
+print(friendlyWelcom)
+//print "Hello Peter Eat A Dick"
+
+
+
 import UIKit
 
 class ViewController: UIViewController {
