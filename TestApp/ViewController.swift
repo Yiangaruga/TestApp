@@ -6,6 +6,8 @@
 //  Copyright © 2016 Zach. All rights reserved.
 // PenisEnvy
 
+var optionalString: String? = "Hello"
+
 import UIKit
 
 class ViewController: UIViewController {
